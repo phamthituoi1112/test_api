@@ -1,0 +1,7 @@
+C:\Users\Kim Hyo Ah\Desktop\APITEST\APITEST\bin\APITEST.dll.config
+C:\Users\Kim Hyo Ah\Desktop\APITEST\APITEST\bin\APITEST.dll
+C:\Users\Kim Hyo Ah\Desktop\APITEST\APITEST\bin\APITEST.pdb
+C:\Users\Kim Hyo Ah\Desktop\APITEST\APITEST\obj\Debug\APITEST.csprojResolveAssemblyReference.cache
+C:\Users\Kim Hyo Ah\Desktop\APITEST\APITEST\obj\Debug\APITEST.dll
+C:\Users\Kim Hyo Ah\Desktop\APITEST\APITEST\obj\Debug\APITEST.pdb
+C:\Users\Kim Hyo Ah\Desktop\APITEST\APITEST\bin\MySql.Data.dll
